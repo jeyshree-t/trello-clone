@@ -108,7 +108,7 @@ Trello_clone/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/trello-clone.git
+git clone https://github.com/jeyshree-t/trello-clone.git
 cd trello-clone
 ```
 
@@ -141,6 +141,16 @@ npm run dev
 ```
 http://localhost:5173
 ```
+
+---
+
+## 🌐 Deployed URLs
+
+| Service | URL |
+|---------|-----|
+| Frontend (Vercel) | https://trello-clone-frontend-eta.vercel.app |
+| Backend (Render) | https://trello-clone-backend-es3w.onrender.com |
+| GitHub Repository | https://github.com/jeyshree-t/trello-clone |
 
 ---
 
