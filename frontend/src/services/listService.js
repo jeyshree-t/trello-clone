@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:5000/api/lists";
+const API_URL = "https://trello-clone-backend-es3w.onrender.com/api/lists";
 
 // Get all lists for a board
 export const getListsByBoard = async (boardId) => {

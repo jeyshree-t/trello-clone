@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:5000/api/comments";
+const API_URL = "https://trello-clone-backend-es3w.onrender.com/api/comments";
 
 export const getCommentsByCard = async (cardId) => {
   const response = await axios.get(`${API_URL}/card/${cardId}`);
